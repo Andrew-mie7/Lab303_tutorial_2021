@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "gruntfuggly.todo-tree",
+        "aaron-bond.better-comments",
+        "mhutchie.git-graph",
+        "wmaurer.change-case",
+        "magicstack.magicpython",
+        "formulahendry.code-runner",
+        "njpwerner.autodocstring",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
+        "github.vscode-pull-request-github"
+    ]
+}
